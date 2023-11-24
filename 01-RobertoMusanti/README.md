@@ -12,7 +12,7 @@
 ##### Informazioni generali
 
 
-- **Dove**: Conservatorio di Musica "Luigi Canepa", [Piazzale Cappuccini 1, Sassari](https://maps.app.goo.gl/8yErLZ5pY2wQvZLq6).
+- **Dove**: [Conservatorio di Musica "Luigi Canepa"](http://www.conservatorio.sassari.it/), [Piazzale Cappuccini 1, Sassari](https://maps.app.goo.gl/8yErLZ5pY2wQvZLq6).
 - **Quando**: 15 novembre 2023, dalle ore 14:30 alle ore 18:30.
 - **Chi**: prof. Roberto Musanti, Cattedra di Sistemi, Tecnlogie e Linguaggi di Programmazione per la Multimedialità, Conservatorio "Canepa"
 
