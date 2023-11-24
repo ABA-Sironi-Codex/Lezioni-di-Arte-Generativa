@@ -6,6 +6,8 @@
 
 #### Cattedra di Sistemi, Tecnlogie e Linguaggi di Programmazione per la Multimedialità | Conservatorio "Canepa"
 
+![ArchivioTouchdesignerMusanti](https://github.com/ABA-Sironi-Codex/Lezioni-di-Arte-Generativa/blob/main/01-RobertoMusanti/ProfMusantiCollection.png)
+
 
 ##### Informazioni generali
 
