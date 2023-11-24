@@ -1,89 +1,43 @@
-# Composizioni Digitali Real Time
+# Introduzione a Touchdesigner
 
 
-### Incontro con Davide Riboli
+### Incontro con Roberto Musanti
 
 
-#### Cattedra di Applicazioni Digitali per l'Arte | ABA "Sironi"
+#### Cattedra di Sistemi, Tecnlogie e Linguaggi di Programmazione per la Multimedialità | Conservatorio "Canepa"
 
 
 ##### Informazioni generali
 
 
-- **Dove**: Accademia di Belle Arti "Mario Sironi", [via Duca degli Abruzzi, Sassari](https://maps.app.goo.gl/KEPd6GJbRxfyGQCp7).
-- **Quando**: 29 novembre 2023, dalle ore 14:30 alle ore 18:30.
-- **Chi**: prof. Davide Riboli, Cattedra di Applicazioni Digitali per l'Arte, ABA "Sironi". Il sito personale del docente è [https://davideriboli.net](https://davideriboli.net) e il curriculum è accluso tra i materiali di questa stessa directory.
+- **Dove**: Conservatorio di Musica "Luigi Canepa", [Piazzale Cappuccini 1, Sassari](https://maps.app.goo.gl/8yErLZ5pY2wQvZLq6).
+- **Quando**: 15 novembre 2023, dalle ore 14:30 alle ore 18:30.
+- **Chi**: prof. Roberto Musanti, Cattedra di Sistemi, Tecnlogie e Linguaggi di Programmazione per la Multimedialità, Conservatorio "Canepa"
 
 
-##### Informazioni per gli studenti
+##### Materiali Allegati
 
 
-1. Non installate alcun _software_ di quelli che verranno trattati durante l'incontro, prima dell'incontro stesso.
-2. Venite muniti di carta, penne, matite e gomme. Ci sono diversi appunti da prendere e carta e penna rimangono sempre uno dei modi migliori.
-3. Cercate di presentarvi coi computer in ordine e col massimo spazio disponibile in _hard-disk_. Usiamo _software_ pesanti. Disinstallate o imparate a spegnere e accendere qualsiasi _antivirus_ abbiate attivo.
-4. Tutti i _software_ che verranno illustrati sono disponibili tanto per Apple Macintosh, quanto per Ms Windows, ma l'incontro si tiene con un _laptop_ Windows 11.
+L'archivio "MaterialiProfMusanti.zip" contiene tutti i file Touchdesigner a supporto dell'incontro. L'ultimo indicato in indice contiene tutti i precedenti
 
-
-##### Programma 
-
-
-###### Ore 14:30/15:30
-
-
-- Il concetto di Arte Generativa e alcune metodologie compositive prima e dopo l'avvento del digitale. Cenni di principi compositivi.
-	- Il Gioco dei Dadi Musicali [https://aba-sironi-codex.github.io/Musical-Dice/](https://aba-sironi-codex.github.io/Musical-Dice/).
-- A cosa pensare PRIMA di accendere il computer: analisi dello spazio e problemi inerenti.
-	- Posizionamenti impianti audio/video, sicurezza, connessioni, meteo.
-	- Edge blending using commodity projectors [https://paulbourke.net/miscellaneous/edgeblend/](https://paulbourke.net/miscellaneous/edgeblend/)
-	- Lumings [https://whatsit.fr/en/services/lumings/](https://whatsit.fr/en/services/lumings/)
-	- Projection Mapping Resources You Should Know About [https://interactiveimmersive.io/blog/outputs/projection-mapping-resources-you-should-know-about/](https://interactiveimmersive.io/blog/outputs/projection-mapping-resources-you-should-know-about/)
-	- Projector Throw Distance Calculator [https://www.projectorcentral.com/projection-calculator-pro.cfm](https://www.projectorcentral.com/projection-calculator-pro.cfm).
-- L'immagine coordinata.
-	- ColourLovers [https://www.colourlovers.com/palettes](https://www.colourlovers.com/palettes).
-	- GoogleFonts [https://fonts.google.com/](https://fonts.google.com/).
-
-
-###### Ore 15:30/16:45
-
-
-- Catene multimediali complesse	
-	- Syphon [https://syphon.github.io/](https://syphon.github.io/).
-	- Spout [https://spout.zeal.co/](https://spout.zeal.co/).
-
-
-- Composizioni Audio/Video _RealTime_ con Resolume e _footage_ [https://www.resolume.com/](https://www.resolume.com/).
-	- Resolume Alley 
-	- Resolume Arena
-	- Resolume Avenue
-	- Resolume Wire
-
-
-###### Ore 16:45/17:00
-
-
-- Pausa.
-
-
-###### Ore 17:00/18:00
-
-
-- Composizioni Audio/Video _RealTime_ con Madmapper e _Shaders_ [https://www.resolume.com/](https://www.resolume.com/).
-	- Madmapper [https://madmapper.com/](https://madmapper.com/)
-	- ISF 01 [https://isf.vidvox.net/](https://isf.vidvox.net/)
-	- ISF 02 [https://isf.video/](https://isf.video/)
-	- ISF 03 [https://editor.isf.video/](https://editor.isf.video/)
-	- Space is the place [https://editor.isf.video/shaders/5e7a7fa17c113618206de17a](https://editor.isf.video/shaders/5e7a7fa17c113618206de17a)
-
-
-###### Ore 18:00/18:30
-
-- Domande e saluti.
-
-
----
-
-
-### Risorse e tutorial aggiuntivi
-
-
-- Saranno pubblicati subito dopo l'incontro.
+- RobertoMusanti_01_BasicTopAdd.toe
+- RobertoMusanti_02_CompositionOverMultiplayer.toe
+- RobertoMusanti_03_BasicTopOver.toe
+- RobertoMusanti_04_Composition_01.toe
+- RobertoMusanti_05_VideoDelay.toe
+- RobertoMusanti_06_Mouse.toe
+- RobertoMusanti_07_Lissajous.toe
+- RobertoMusanti_08_Lissajous_FeedBack.toe
+- RobertoMusanti_09a_FeedBack.toe
+- RobertoMusanti_09b_FeedBack.toe
+- RobertoMusanti_10_Composition_04.toe
+- RobertoMusanti_11_Composition_03.toe
+- RobertoMusanti_12_Composition_ChopTo.toe
+- RobertoMusanti_13_Kaleidoscope_From_Analyze.toe
+- RobertoMusanti_14_Displace_Pixel.toe
+- RobertoMusanti_15_Displace_02.toe
+- RobertoMusanti_16_Peter_Saville.toe
+- RobertoMusanti_17_Instancing_Sop.toe
+- RobertoMusanti_18_Instancing_Sop_02.toe
+- RobertoMusanti_19_Particle_Sop.toe
+- RobertoMusanti_20_CompleteCollection.toe
