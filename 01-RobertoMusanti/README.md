@@ -14,13 +14,13 @@
 
 - **Dove**: [Conservatorio di Musica "Luigi Canepa"](http://www.conservatorio.sassari.it/), [Piazzale Cappuccini 1, Sassari](https://maps.app.goo.gl/8yErLZ5pY2wQvZLq6).
 - **Quando**: 15 novembre 2023, dalle ore 14:30 alle ore 18:30.
-- **Chi**: prof. Roberto Musanti, Cattedra di Sistemi, Tecnlogie e Linguaggi di Programmazione per la Multimedialità, Conservatorio "Canepa"
+- **Chi**: prof. Roberto Musanti, Cattedra di Sistemi, Tecnlogie e Linguaggi di Programmazione per la Multimedialità, Conservatorio "Canepa".
 
 
 ##### Materiali Allegati
 
 
-L'archivio [MaterialiProfMusanti.zip](https://github.com/ABA-Sironi-Codex/Lezioni-di-Arte-Generativa/blob/main/01-RobertoMusanti/MaterialiProfMusanti.zip) contiene tutti i file Touchdesigner a supporto dell'incontro. L'ultimo indicato in indice contiene tutti i precedenti
+L'archivio [MaterialiProfMusanti.zip](https://github.com/ABA-Sironi-Codex/Lezioni-di-Arte-Generativa/blob/main/01-RobertoMusanti/MaterialiProfMusanti.zip) contiene tutti i file Touchdesigner a supporto dell'incontro. L'ultimo indicato in indice contiene tutti i precedenti.
 
 - RobertoMusanti_01_BasicTopAdd.toe
 - RobertoMusanti_02_CompositionOverMultiplayer.toe
