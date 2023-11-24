@@ -18,7 +18,7 @@
 ##### Materiali Allegati
 
 
-L'archivio "MaterialiProfMusanti.zip" contiene tutti i file Touchdesigner a supporto dell'incontro. L'ultimo indicato in indice contiene tutti i precedenti
+L'archivio [MaterialiProfMusanti.zip](https://github.com/ABA-Sironi-Codex/Lezioni-di-Arte-Generativa/blob/main/01-RobertoMusanti/MaterialiProfMusanti.zip) contiene tutti i file Touchdesigner a supporto dell'incontro. L'ultimo indicato in indice contiene tutti i precedenti
 
 - RobertoMusanti_01_BasicTopAdd.toe
 - RobertoMusanti_02_CompositionOverMultiplayer.toe
