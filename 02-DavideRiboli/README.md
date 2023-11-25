@@ -72,8 +72,7 @@
 
 ---
 
-
-### Risorse e tutorial aggiuntivi
+### Risorse e tutorial
 
 
 #### 01 Ordo ab Chaos / Chaos ab Ordo
@@ -85,8 +84,10 @@
 - [Pendulum Project](https://youtu.be/d2E5oojoXjk?feature=shared&t=133)
 - [Alea Iacta Est](https://aba-sironi-codex.github.io/Musical-Dice/)
 
-#### 01 The Time is Now / The Place is Here
+#### 01 Fiat Lux
 
+- [Nits vs Lumens vs Luminance/](https://it.newhavendisplay.com/blog/nits-vs-lumens-vs-luminance/)
+- [Lumens2Nits2Lumens Calculator](https://calculator.academy/lumens-to-nits-calculator/)
 - Posizionamenti impianti audio/video, sicurezza (impiantistica e avvisi al pubblico), connessioni, meteo
 - [Projector Throw Distance Calculator](https://www.projectorcentral.com/projection-calculator-pro.cfm)
 - [Projection Mapping Resources You Should Know About](https://interactiveimmersive.io/blog/outputs/projection-mapping-resources-you-should-know-about/)
