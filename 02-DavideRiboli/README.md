@@ -30,22 +30,17 @@
 ###### 01 - Ore 14:30/15:30
 
 
-- Il concetto di Arte Generativa e alcune metodologie compositive prima e dopo l'avvento del digitale. Cenni di principi compositivi.
-- A cosa pensare PRIMA di accendere il computer: analisi dello spazio e problemi inerenti.
+- Il concetto di Arte Generativa e alcune metodologie compositive prima e dopo l'avvento del digitale. Cenni di principi compositivi
+- A cosa pensare PRIMA di accendere il computer: analisi dello spazio e problemi inerenti
 
-###### Ore 15:30/16:45
+###### 02 Resolume - Ore 15:30/16:45
 
-
+- Media center real time: Resolume Suite (cosa si scarica e perché)
 - Catene multimediali complesse	
-	- Syphon [https://syphon.github.io/](https://syphon.github.io/).
-	- Spout [https://spout.zeal.co/](https://spout.zeal.co/).
 
 
-- Composizioni Audio/Video _RealTime_ con Resolume e _footage_ [https://www.resolume.com/](https://www.resolume.com/).
-	- Resolume Alley 
-	- Resolume Arena
-	- Resolume Avenue
-	- Resolume Wire
+- Composizioni Audio/Video _RealTime_ con Resolume e _footage_ [https://www.resolume.com/].
+	
 
 
 ###### Ore 16:45/17:00
@@ -94,5 +89,16 @@
 - [Lumings](https://whatsit.fr/en/services/lumings/)
 - [Edge blending using commodity projectors](https://paulbourke.net/miscellaneous/edgeblend/)
 	
-	
+---
+
+#### 02 Resolume
+
+- [Resolume](https://www.resolume.com/)
+	- Resolume Alley 
+	- Resolume Arena
+	- Resolume Avenue
+	- Resolume Wire
+- Syphon [https://syphon.github.io/](https://syphon.github.io/)
+- Spout [https://spout.zeal.co/](https://spout.zeal.co/)
+
 	
