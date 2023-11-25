@@ -27,11 +27,11 @@
 ##### Programma 
 
 
-###### Ore 14:30/15:30
+###### 01 - Ore 14:30/15:30
 
 
 - Il concetto di Arte Generativa e alcune metodologie compositive prima e dopo l'avvento del digitale. Cenni di principi compositivi.
-	- Il Gioco dei Dadi Musicali [https://aba-sironi-codex.github.io/Musical-Dice/](https://aba-sironi-codex.github.io/Musical-Dice/).
+	
 - A cosa pensare PRIMA di accendere il computer: analisi dello spazio e problemi inerenti.
 	- Posizionamenti impianti audio/video, sicurezza, connessioni, meteo.
 	- Edge blending using commodity projectors [https://paulbourke.net/miscellaneous/edgeblend/](https://paulbourke.net/miscellaneous/edgeblend/)
@@ -86,4 +86,11 @@
 ### Risorse e tutorial aggiuntivi
 
 
-- Saranno pubblicati subito dopo l'incontro.
+#### 01 Ordo ab Chaos / Chaos ab Ordo
+
+![Double Pendulum Light Painting](DoublePendulumLightPainting.jpg)
+
+- [Pendulum](https://www.myphysicslab.com/pendulum/pendulum-en.html)
+- [Double Pendulum](https://www.myphysicslab.com/pendulum/double-pendulum-en.html)
+- [Pendulum Project](https://youtu.be/d2E5oojoXjk?feature=shared&t=133)
+- [Alea Iacta Est](https://aba-sironi-codex.github.io/Musical-Dice/)
