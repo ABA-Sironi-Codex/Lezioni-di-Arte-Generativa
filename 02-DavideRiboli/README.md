@@ -54,10 +54,7 @@
 
 - Composizioni Audio/Video _RealTime_ con Madmapper e _Shaders_ [https://www.resolume.com/](https://www.resolume.com/).
 	- Madmapper [https://madmapper.com/](https://madmapper.com/)
-	- ISF 01 [https://isf.vidvox.net/](https://isf.vidvox.net/)
-	- ISF 02 [https://isf.video/](https://isf.video/)
-	- ISF 03 [https://editor.isf.video/](https://editor.isf.video/)
-	- Space is the place [https://editor.isf.video/shaders/5e7a7fa17c113618206de17a](https://editor.isf.video/shaders/5e7a7fa17c113618206de17a)
+	
 
 
 ###### Ore 18:00/18:30
@@ -98,7 +95,22 @@
 	- Resolume Arena
 	- Resolume Avenue
 	- Resolume Wire
-- Syphon [https://syphon.github.io/](https://syphon.github.io/)
-- Spout [https://spout.zeal.co/](https://spout.zeal.co/)
+- [Resolume Video Training](https://resolume.com/training)
+
+---
+
+#### Addenda et regalia
+
+- [Internet Archive (Video Section)](https://archive.org/details/movies)
+- [ISF 01](https://isf.vidvox.net/)
+- [ISF 02](https://isf.video/)
+- [ISF 03](https://editor.isf.video/)
+- [JuiceBar](https://inapp.get-juicebar.com/)
+- [LimeArt Group](https://limeartgroup.com/)
+- [Space is the place](https://editor.isf.video/shaders/5e7a7fa17c113618206de17a)
+- [Spout](https://spout.zeal.co/)
+- [Syphon](https://syphon.github.io/)
+- [Vimeo Free HD Stock Footage](https://vimeo.com/groups/freehd)
+- [YouTube LimeArt Group](https://www.youtube.com/@Limeartgroup)
 
 	
