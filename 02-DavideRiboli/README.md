@@ -31,17 +31,7 @@
 
 
 - Il concetto di Arte Generativa e alcune metodologie compositive prima e dopo l'avvento del digitale. Cenni di principi compositivi.
-	
 - A cosa pensare PRIMA di accendere il computer: analisi dello spazio e problemi inerenti.
-	- Posizionamenti impianti audio/video, sicurezza, connessioni, meteo.
-	- Edge blending using commodity projectors [https://paulbourke.net/miscellaneous/edgeblend/](https://paulbourke.net/miscellaneous/edgeblend/)
-	- Lumings [https://whatsit.fr/en/services/lumings/](https://whatsit.fr/en/services/lumings/)
-	- Projection Mapping Resources You Should Know About [https://interactiveimmersive.io/blog/outputs/projection-mapping-resources-you-should-know-about/](https://interactiveimmersive.io/blog/outputs/projection-mapping-resources-you-should-know-about/)
-	- Projector Throw Distance Calculator [https://www.projectorcentral.com/projection-calculator-pro.cfm](https://www.projectorcentral.com/projection-calculator-pro.cfm).
-- L'immagine coordinata.
-	- ColourLovers [https://www.colourlovers.com/palettes](https://www.colourlovers.com/palettes).
-	- GoogleFonts [https://fonts.google.com/](https://fonts.google.com/).
-
 
 ###### Ore 15:30/16:45
 
@@ -94,3 +84,14 @@
 - [Double Pendulum](https://www.myphysicslab.com/pendulum/double-pendulum-en.html)
 - [Pendulum Project](https://youtu.be/d2E5oojoXjk?feature=shared&t=133)
 - [Alea Iacta Est](https://aba-sironi-codex.github.io/Musical-Dice/)
+
+#### 01 The Time is Now / The Place is Here
+
+- Posizionamenti impianti audio/video, sicurezza (impiantistica e avvisi al pubblico), connessioni, meteo
+- [Projector Throw Distance Calculator](https://www.projectorcentral.com/projection-calculator-pro.cfm)
+- [Projection Mapping Resources You Should Know About](https://interactiveimmersive.io/blog/outputs/projection-mapping-resources-you-should-know-about/)
+- [Lumings](https://whatsit.fr/en/services/lumings/)
+- [Edge blending using commodity projectors](https://paulbourke.net/miscellaneous/edgeblend/)
+	
+	
+	
