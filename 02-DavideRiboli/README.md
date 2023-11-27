@@ -32,7 +32,7 @@
 
 **Ore 16:45/17:00**
 
-- Pausa.
+- Pausa
 
 **03 Madmapper - Ore 17:00/18:15**
 
@@ -47,7 +47,7 @@
 
 ### Risorse e tutorial
 
-**01 Ordo ab Chaos / Chaos ab Ordo**
+**01 Ordo ab Chaos**
 
 ![Double Pendulum Light Painting](DoublePendulumLightPainting.jpg)
 
@@ -83,13 +83,15 @@
 
 **03 Madmapper**
 
--
--
--
+- [Madmapper](https://madmapper.com/)
+- [Madmapper Docs&Tuts](https://madmapper.com/madmapper/tutorials)
+- [Madmapper Video Training](https://www.youtube.com/channel/UCC9p0fzuYik453n9fXFjpgg)
+- [Madmapper Esercizio SpeedMapping](https://www.youtube.com/watch?v=ep0GUaZRO1Y)
+- Il modello 3D usato per la lezione e accluso a questo _repository_, è distribuito gratuitamente da [Free3D](https://free3d.com/it/3d-model/male-base-mesh-6682.html).
 
 ---
 
-**Addenda et regalia**
+**Addenda**
 
 - [FFMPEG](https://ffmpeg.org/)
 - [Internet Archive (Video Section)](https://archive.org/details/movies)
@@ -97,18 +99,21 @@
 - [ISF 02](https://isf.video/)
 - [ISF 03](https://editor.isf.video/)
 - [JuiceBar](https://inapp.get-juicebar.com/)
-- [LimeArt Group](https://limeartgroup.com/)
 - [Space is the place](https://editor.isf.video/shaders/5e7a7fa17c113618206de17a)
 - [Spout](https://spout.zeal.co/)
 - [Syphon](https://syphon.github.io/)
 - [Vimeo Free HD Stock Footage](https://vimeo.com/groups/freehd)
-- [YouTube LimeArt Group](https://www.youtube.com/@Limeartgroup)
+
+**Esempi di interfacce MIDI a basso costo**
+
+- [Korg NANOKontrol 2](https://www.amazon.it/Korg-Kontrol-black-controller-logic/dp/B004M8UZS8)
+- [Korg NanoKontrol Studio](https://www.amazon.it/Korg-Controller-nanokontrol-Studio/dp/B01APLZ7XI?ufe=app_do%3Aamzn1.fos.9d4f9b77-768c-4a4e-94ad-33674c20ab35)
+- [Novation LaunchControl + LaunchPad](https://www.amazon.it/Novation-Launch-Control-MKII-Launchpad/dp/B0B4C8DXWC)
 
 Comando di estrazione FFMPEG
 
 ```shell
 
-ffmpeg -i miovideo.xyz -vf fps=1/60 img_%03d.jpg
+ffmpeg -i miovideo.xyz -vf fps=1/60 img_%03d.xyz
 
 ``` 
-
