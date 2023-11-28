@@ -93,6 +93,8 @@
 
 **Addenda**
 
+- [Audio Router Mac BlackHole](https://github.com/ExistentialAudio/BlackHole)
+- [Audio Router Win VoiceMeter](https://vb-audio.com/Voicemeeter/index.htm)
 - [FFMPEG](https://ffmpeg.org/)
 - [Internet Archive (Video Section)](https://archive.org/details/movies)
 - [ISF 01](https://isf.vidvox.net/)
@@ -117,3 +119,25 @@ Comando di estrazione FFMPEG
 ffmpeg -i miovideo.xyz -vf fps=1/60 img_%03d.xyz
 
 ``` 
+
+---
+
+**Profili consigliati**
+
+Per concludere, ecco un elenco di _account_ Instagram altamente consigliati. Quasi tutti gli artisti e i festival citati sono presenti anche su tutti gli altri _social network_ e si consiglia il _following_ ovunque perché pubblicano spesso _tutorial_ e guide introduttive. 
+
+- [Brian Eno](https://www.instagram.com/brianeno/)
+- [CodexFuturae](https://www.instagram.com/codex.futurae/)
+- [Crystal Jow](https://www.instagram.com/crystaljowart/)
+- [Davide Riboli](https://www.instagram.com/davide.riboli/)
+- [Elekktronaut](https://www.instagram.com/elekktronaut/)
+- [Hypermosh](https://www.instagram.com/hypermosh/)
+- [Madmapper](https://www.instagram.com/mad_mapper/)
+- [Node Festival](https://www.instagram.com/nodefestival/)
+- [Obscenity State](https://www.instagram.com/obscenity_state/)
+- [Ooopstudio](https://www.instagram.com/p/Cz8jP0IsxoW/)
+- [PiTheorem](https://www.instagram.com/pitheorem/)
+- [Projecton Mapping World](https://www.instagram.com/projection_mapping_world/?g=5)
+- [The Interactive & Immersive HQ](https://www.instagram.com/interactiveimmersivehq/)
+- [TouchdesignerMx](https://www.instagram.com/touchdesignermx/)
+- [Von Wolfe](https://www.instagram.com/vonwolfe_/)
