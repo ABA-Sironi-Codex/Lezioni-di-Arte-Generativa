@@ -14,8 +14,7 @@
 
 1. Non installate alcun _software_ di quelli che verranno trattati durante l'incontro, prima dell'incontro stesso.
 2. Venite muniti di carta, penne, matite e gomme. Ci sono diversi appunti da prendere e carta e penna rimangono sempre uno dei modi migliori.
-3. Cercate di presentarvi coi computer in ordine e col massimo spazio disponibile in _hard-disk_. Usiamo _software_ pesanti. Disinstallate o imparate a spegnere e accendere qualsiasi _antivirus_ abbiate attivo.
-4. Tutti i _software_ che verranno illustrati sono disponibili tanto per Apple Macintosh, quanto per Ms Windows, ma l'incontro si tiene con un _laptop_ Windows 11.
+3. Tutti i _software_ che verranno illustrati sono disponibili tanto per Apple Macintosh, quanto per Ms Windows, ma l'incontro si tiene con un _laptop_ Windows 11.
 
 ##### Programma 
 
@@ -24,11 +23,14 @@
 - Il concetto di Arte Generativa e alcune metodologie compositive prima e dopo l'avvento del digitale. Cenni di principi compositivi
 - A cosa pensare PRIMA di accendere il computer: analisi dello spazio e problemi inerenti
 
-**02 Resolume - Ore 15:30/16:45**
+**02 Resolume e FFMPEG - Ore 15:30/16:45**
 
 - Media center real time: Resolume Suite
-- Catene multimediali complesse	
+	- Differenze tra Resolume Arena e Resolume Avenue
+	- Cosa sono e a cosa servono i codec, FFMPEG, Resolume Alley e Resolume Wire
+	- Primo approccio alla GUI di Resolume Arena
 - Composizioni Audio/Video _RealTime_ con Resolume e _footage_
+- Controlli _audioreactive_ in Resolume
 
 **Ore 16:45/17:00**
 
@@ -36,8 +38,11 @@
 
 **03 Madmapper - Ore 17:00/18:15**
 
+- Catene multimediali complesse	con Syphon/Spout
 - Media center real time: Madmapper
-- Composizioni Audio/Video _RealTime_ con Madmapper e _shaders_
+	- Primo approccio alla GUI di Madmapper
+	- _Shader_ in Madmapper
+- Composizioni Audio/Video _RealTime_ con Madmapper e _shader_
 
 **04 Q&A - Ore 18:15/18:30**
 
@@ -51,6 +56,8 @@
 
 ![Double Pendulum Light Painting](DoublePendulumLightPainting.jpg)
 
+
+- [What is Generative Art](ga2003_paper.pdf) (by Prof. [Philip Galanter](https://www.philipgalanter.com/))
 - [Pendulum](https://www.myphysicslab.com/pendulum/pendulum-en.html)
 - [Double Pendulum](https://www.myphysicslab.com/pendulum/double-pendulum-en.html)
 - [Pendulum Project](https://youtu.be/d2E5oojoXjk?feature=shared&t=133)
@@ -64,7 +71,6 @@
 - [Projector Throw Distance Calculator](https://www.projectorcentral.com/projection-calculator-pro.cfm)
 - [Projection Mapping Resources You Should Know About](https://interactiveimmersive.io/blog/outputs/projection-mapping-resources-you-should-know-about/)
 - [Lumings](https://whatsit.fr/en/services/lumings/)
-- [Edge blending using commodity projectors](https://paulbourke.net/miscellaneous/edgeblend/)
 	
 ---
 
